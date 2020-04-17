@@ -41,7 +41,7 @@
                                             </label>
                                         </subviews>
                                     </stackView>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="PbF-Dy-3si" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="01d" translatesAutoresizingMaskIntoConstraints="NO" id="PbF-Dy-3si" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
                                         <rect key="frame" x="96.5" y="221.5" width="150" height="150"/>
                                         <constraints>
                                             <constraint firstAttribute="width" constant="150" id="JOw-7C-iJf"/>
@@ -108,7 +108,7 @@
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GFy-ka-RLk" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="02n" translatesAutoresizingMaskIntoConstraints="NO" id="GFy-ka-RLk" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
                                                         <rect key="frame" x="0.0" y="33" width="57.5" height="50"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="50" id="Prk-I1-mG2"/>
@@ -131,7 +131,7 @@
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kVY-ef-qeO" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="09d" translatesAutoresizingMaskIntoConstraints="NO" id="kVY-ef-qeO" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
                                                         <rect key="frame" x="0.0" y="33" width="57.5" height="50"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="50" id="RoW-kJ-xjX"/>
@@ -154,7 +154,7 @@
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="XAj-ZP-3Tn" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="04d" translatesAutoresizingMaskIntoConstraints="NO" id="XAj-ZP-3Tn" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
                                                         <rect key="frame" x="0.0" y="33" width="57" height="50"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="50" id="ckQ-GL-Lf0"/>
@@ -177,7 +177,7 @@
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kLD-mB-eRE" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="11n" translatesAutoresizingMaskIntoConstraints="NO" id="kLD-mB-eRE" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
                                                         <rect key="frame" x="0.0" y="33" width="57.5" height="50"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="50" id="Oho-nk-bSG"/>
@@ -200,7 +200,7 @@
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Y7a-os-gvi" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="10d" translatesAutoresizingMaskIntoConstraints="NO" id="Y7a-os-gvi" customClass="FancyImage" customModule="Weather" customModuleProvider="target">
                                                         <rect key="frame" x="0.0" y="33" width="57.5" height="50"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="50" id="qhO-bG-bPV"/>
@@ -216,7 +216,11 @@
                                             </stackView>
                                         </subviews>
                                         <constraints>
+                                            <constraint firstItem="Y7a-os-gvi" firstAttribute="centerY" secondItem="kLD-mB-eRE" secondAttribute="centerY" id="FDX-rK-bOj"/>
                                             <constraint firstAttribute="height" constant="110" id="aFU-P7-3xg"/>
+                                            <constraint firstItem="kLD-mB-eRE" firstAttribute="centerY" secondItem="XAj-ZP-3Tn" secondAttribute="centerY" id="eZP-YJ-qkD"/>
+                                            <constraint firstItem="kVY-ef-qeO" firstAttribute="centerY" secondItem="GFy-ka-RLk" secondAttribute="centerY" id="erd-tt-5Xf"/>
+                                            <constraint firstItem="XAj-ZP-3Tn" firstAttribute="centerY" secondItem="kVY-ef-qeO" secondAttribute="centerY" id="wNO-oe-Vk8"/>
                                         </constraints>
                                     </stackView>
                                 </subviews>
@@ -272,4 +276,12 @@
             <point key="canvasLocation" x="132" y="138.98050974512745"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="01d" width="50" height="50"/>
+        <image name="02n" width="50" height="50"/>
+        <image name="04d" width="50" height="50"/>
+        <image name="09d" width="50" height="50"/>
+        <image name="10d" width="50" height="50"/>
+        <image name="11n" width="50" height="50"/>
+    </resources>
 </document>

@@ -68,7 +68,7 @@ class WeatherDetailView: FancyView {
             
             topLabels[i]?.text = hourString
             images[i]?.image = UIImage(named: weatherIconName)
-            bottomLabels[i]?.text = "\(weatherTemperature.rounded())°F"
+            bottomLabels[i]?.text = "\(Int(weatherTemperature.rounded()))°F"
         }
         
     }
@@ -85,7 +85,7 @@ class WeatherDetailView: FancyView {
             
             topLabels[i]?.text = dayString
             images[i]?.image = UIImage(named: weatherIconName)
-            bottomLabels[i]?.text = "\(weatherTemperature.rounded())°F"
+            bottomLabels[i]?.text = "\(Int(weatherTemperature.rounded()))°F"
         }
     }
 }
